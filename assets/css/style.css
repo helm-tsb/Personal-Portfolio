@@ -1,10 +1,3 @@
-/**
-* Template Name: Personal - v2.1.0
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -87,6 +80,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #ffc107;
   border-bottom: 2px solid #1c7d32;
   padding-bottom: 6px;
+  align-self: center;
 }
 
 #header img {
